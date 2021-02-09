@@ -1,0 +1,12 @@
+C:\Users\umit\source\repos\ConsoleApp11\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+C:\Users\umit\source\repos\ConsoleApp11\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+C:\Users\umit\source\repos\ConsoleApp11\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+C:\Users\umit\source\repos\ConsoleApp11\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+C:\Users\umit\source\repos\ConsoleApp11\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+C:\Users\umit\source\repos\ConsoleApp11\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+C:\Users\umit\source\repos\ConsoleApp11\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+C:\Users\umit\source\repos\ConsoleApp11\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+C:\Users\umit\source\repos\ConsoleApp11\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\umit\source\repos\ConsoleApp11\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+C:\Users\umit\source\repos\ConsoleApp11\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+C:\Users\umit\source\repos\ConsoleApp11\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache
